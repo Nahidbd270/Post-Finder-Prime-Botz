@@ -10,7 +10,7 @@ async def start(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
             [
-                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='http://t.me/yourfindbot?startgroup=true')
+                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/LinkTRSearchBot?startgroup=true')
             ],
             [
                 InlineKeyboardButton("ʜᴇʟᴘ", callback_data="misc_help"),
