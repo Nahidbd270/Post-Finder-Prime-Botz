@@ -17,7 +17,7 @@ async def start(bot, message):
                 InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_about")
             ],
             [
-                InlineKeyboardButton("💬 ᴩʀɪᴍᴇ ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/Prime_Botz_Support")
+                InlineKeyboardButton("💬 ᴩʀɪᴍᴇ ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/Terabox_search_group")
             ]
         ])
     )
