@@ -1,7 +1,7 @@
 class script(object):
     START = """**Hello {} 🤟**
    
-<b>ɪ ᴀᴍ <a href="https://telegram.me/LinkTRSearchBot">ᴘʀɪᴍᴇ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ</a> ✯. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
+<b>ɪ ᴀᴍ <a href="https://telegram.me/Post2FinderBot">ᴘʀɪᴍᴇ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ</a> ✯. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
 ɪ ᴡɪʟʟ ғɪʟᴛᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀɴᴅ sᴇɴᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡʜᴇɴ sᴏᴍᴇᴏɴᴇ sᴇᴀʀᴄʜ ɪᴛ.
 
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/AllBotUpdatemy">Movies 🔥</a></blockquote></b>"""
